@@ -1,3 +1,4 @@
+//TEST
 module.exports = {
     "env": {
         "browser": true,
